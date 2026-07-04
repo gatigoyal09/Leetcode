@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Greedy
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -28,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+## Sorting
+|  |
+| ------- |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 <!---LeetCode Topics End-->
