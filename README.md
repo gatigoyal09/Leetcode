@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/gatigoyal09/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Two Pointers
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/gatigoyal09/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
@@ -80,4 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/gatigoyal09/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
+## Hash Table
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
