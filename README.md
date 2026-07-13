@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gatigoyal09/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/gatigoyal09/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/gatigoyal09/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gatigoyal09/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/gatigoyal09/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gatigoyal09/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
