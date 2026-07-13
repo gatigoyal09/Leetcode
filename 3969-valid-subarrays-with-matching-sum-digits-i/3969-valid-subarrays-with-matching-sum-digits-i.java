@@ -7,6 +7,7 @@ class Solution {
             for(int j=i; j<nums.length; j++){
                 pf += nums[j];
                 long last = pf % 10;
+                if(last != x) continue;
                 long first = pf;
                 while(first > 9){
                     first /= 10;
