@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/gatigoyal09/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gatigoyal09/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/gatigoyal09/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/gatigoyal09/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gatigoyal09/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
