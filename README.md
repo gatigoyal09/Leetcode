@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gatigoyal09/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/gatigoyal09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -114,4 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gatigoyal09/Leetcode/tree/master/1291-sequential-digits) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
