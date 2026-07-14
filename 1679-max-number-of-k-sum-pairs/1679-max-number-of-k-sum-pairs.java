@@ -3,18 +3,18 @@ class Solution {
         Arrays.sort(nums);
         int ans = 0;
         int n = nums.length;
-        if (n == 1)
-            return 0;
-        int i=0; 
-        int j=n-1;
-        while(i<j){
-            if(nums[i]+nums[j]==k){
+
+        int i = 0;
+        int j = n - 1;
+        while (i < j) {
+            if (nums[i] + nums[j] == k) {
                 ans++;
                 i++;
                 j--;
-            }
-            else if(nums[i]+nums[j]>k) j--;
-            else i++;
+            } else if (nums[i] + nums[j] > k)
+                j--;
+            else
+                i++;
         }
         return ans;
         // Map<Integer, Integer> mpp = new HashMap<>();
@@ -27,7 +27,7 @@ class Solution {
         //         ans += Math.min(cnt1, mpp.get(k-key));
         //     }
         // }
-        
+
         // return ans/2;
     }
 }
