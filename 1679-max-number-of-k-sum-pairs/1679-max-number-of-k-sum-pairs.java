@@ -17,17 +17,6 @@ class Solution {
                 i++;
         }
         return ans;
-        // Map<Integer, Integer> mpp = new HashMap<>();
-        // for(int el : nums){
-        //     mpp.put(el, mpp.getOrDefault(el,0)+1);
-        // }
-        // for(int key : mpp.keySet()){
-        //     int cnt1 = mpp.get(key);
-        //     if(mpp.containsKey(k - key)){
-        //         ans += Math.min(cnt1, mpp.get(k-key));
-        //     }
-        // }
-
-        // return ans/2;
+        
     }
 }
