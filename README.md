@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gatigoyal09/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/gatigoyal09/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2090-k-radius-subarray-averages](https://github.com/gatigoyal09/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gatigoyal09/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/gatigoyal09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/gatigoyal09/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Tree
 |  |
