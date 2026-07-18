@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/gatigoyal09/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/gatigoyal09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/gatigoyal09/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gatigoyal09/Leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/gatigoyal09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/gatigoyal09/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gatigoyal09/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/gatigoyal09/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/gatigoyal09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/gatigoyal09/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
