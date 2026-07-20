@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gatigoyal09/Leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/gatigoyal09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/gatigoyal09/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/gatigoyal09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gatigoyal09/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/gatigoyal09/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gatigoyal09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/gatigoyal09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/gatigoyal09/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gatigoyal09/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/gatigoyal09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
