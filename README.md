@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/gatigoyal09/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/gatigoyal09/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gatigoyal09/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gatigoyal09/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gatigoyal09/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
