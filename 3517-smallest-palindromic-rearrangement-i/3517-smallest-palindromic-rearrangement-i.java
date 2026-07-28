@@ -23,9 +23,8 @@ class Solution {
         }
         StringBuilder ans = new StringBuilder();
         ans.append(sb);
-        String str = sb.reverse().toString();
         if(odd != '-') ans.append(odd);
-        ans.append(str);
+        ans.append(sb.reverse());
         return ans.toString();
     }
 }
