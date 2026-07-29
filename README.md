@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gatigoyal09/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/gatigoyal09/Leetcode/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gatigoyal09/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gatigoyal09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/gatigoyal09/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
