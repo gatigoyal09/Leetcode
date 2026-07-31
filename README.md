@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gatigoyal09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/gatigoyal09/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gatigoyal09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gatigoyal09/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/gatigoyal09/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gatigoyal09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gatigoyal09/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gatigoyal09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -184,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gatigoyal09/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/gatigoyal09/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gatigoyal09/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
 | ------- |
