@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gatigoyal09/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gatigoyal09/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/gatigoyal09/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/gatigoyal09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/gatigoyal09/Leetcode/tree/master/0724-find-pivot-index) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/gatigoyal09/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/gatigoyal09/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gatigoyal09/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gatigoyal09/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gatigoyal09/Leetcode/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gatigoyal09/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gatigoyal09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gatigoyal09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gatigoyal09/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gatigoyal09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
