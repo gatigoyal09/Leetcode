@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gatigoyal09/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gatigoyal09/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gatigoyal09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/gatigoyal09/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/gatigoyal09/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gatigoyal09/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gatigoyal09/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gatigoyal09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/gatigoyal09/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gatigoyal09/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gatigoyal09/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gatigoyal09/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/gatigoyal09/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gatigoyal09/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gatigoyal09/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
