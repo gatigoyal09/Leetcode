@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/gatigoyal09/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gatigoyal09/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/gatigoyal09/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gatigoyal09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gatigoyal09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gatigoyal09/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2090-k-radius-subarray-averages](https://github.com/gatigoyal09/Leetcode/tree/master/2090-k-radius-subarray-averages) |
