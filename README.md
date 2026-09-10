@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gatigoyal09/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gatigoyal09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gatigoyal09/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gatigoyal09/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gatigoyal09/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gatigoyal09/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/gatigoyal09/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gatigoyal09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/gatigoyal09/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/gatigoyal09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0767-reorganize-string](https://github.com/gatigoyal09/Leetcode/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gatigoyal09/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gatigoyal09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gatigoyal09/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
