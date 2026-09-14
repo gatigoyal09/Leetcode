@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gatigoyal09/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gatigoyal09/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/gatigoyal09/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gatigoyal09/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gatigoyal09/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gatigoyal09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gatigoyal09/Leetcode/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gatigoyal09/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
