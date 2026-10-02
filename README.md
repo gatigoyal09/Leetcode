@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gatigoyal09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/gatigoyal09/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/gatigoyal09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gatigoyal09/Leetcode/tree/master/0877-stone-game) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gatigoyal09/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/gatigoyal09/Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/gatigoyal09/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gatigoyal09/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gatigoyal09/Leetcode/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gatigoyal09/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gatigoyal09/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
